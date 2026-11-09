@@ -1,0 +1,19 @@
+{
+  "scope": "Explicit TEST OPERATOR choices, NOT claimed as user-approved final trading definitions",
+  "pe_field": "pe_ratio_ttm",
+  "roe_field": "return_on_equity_ttm",
+  "roe_unit": "fraction",
+  "roe_unit_basis": "Official formula has no multiplication by 100; actual provider live numeric scale not yet verified",
+  "momentum_formula": "C(asof) / C(asof minus 20 trading days) - 1",
+  "momentum_price_count": 21,
+  "momentum_adjust_type": "none",
+  "momentum_basis": "TEST choice: unadjusted price return, excludes dividend return, no claim of corporate-action robustness",
+  "skip_suspended": false,
+  "historical_universe": "000300.XSHG as of previous trading day",
+  "execution": "Only candidate monthly target selection; no trading orders",
+  "rank": ["roe_ttm descending", "momentum20 descending", "order_book_id ascending"],
+  "target_count": 10,
+  "fixed_weight": 0.08,
+  "conditions_confirmed_for_test": true,
+  "custom_momentum_confirmed_for_test": true
+}

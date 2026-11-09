@@ -1,0 +1,53 @@
+{
+  "base": {
+    "start_date": "2024-01-02",
+    "end_date": "2024-06-28",
+    "frequency": "1d",
+    "accounts": {
+      "STOCK": 100000
+    },
+    "run_type": "b",
+    "capital_gain_tax_rate": 0
+  },
+  "extra": {
+    "log_level": "info"
+  },
+  "mod": {
+    "sys_simulation": {
+      "enabled": true,
+      "matching_type": "current_bar",
+      "slippage_model": "PriceRatioSlippage",
+      "slippage": 0,
+      "price_limit": true,
+      "volume_limit": true,
+      "volume_percent": 0.25,
+      "inactive_limit": true
+    },
+    "sys_transaction_cost": {
+      "enabled": true,
+      "stock_commission_multiplier": 0.375,
+      "stock_min_commission": 5,
+      "tax_multiplier": 0,
+      "etf_commission": {
+        "default": {
+          "commission_rate": 0.0003,
+          "min_commission": 5
+        }
+      }
+    },
+    "sys_analyser": {
+      "enabled": true,
+      "benchmark": "510300.XSHG",
+      "plot": false
+    },
+    "sys_progress": {
+      "enabled": false
+    },
+    "sys_risk": {
+      "enabled": true
+    },
+    "sys_accounts": {
+      "enabled": true
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "compiled": "2026-11-09",
+  "documents": [
+    {
+      "platform_family": "joinquant-docs",
+      "source": "https://www.joinquant.com/help/api/help?name=api",
+      "retrieved": "2026-11-04",
+      "source_text_sha256": "998fd6c09284d99edf4ce36d3eab8d39be997c32ccce5a43562be04a9bdd821a",
+      "included": "原创适配摘要；未打包完整第三方手册",
+      "validation": "文档依据，不是本分享包平台运行认证"
+    },
+    {
+      "platform_family": "joinquant-docs",
+      "source": "https://www.joinquant.com/help/api/help?name=factor_values",
+      "retrieved": "2026-11-04",
+      "source_text_sha256": "e06c058b8c199158e1df686db15f311a2cf603f04907805d604785ddf84c66cc",
+      "included": "原创适配摘要；未打包完整第三方手册",
+      "validation": "文档依据，不是本分享包平台运行认证"
+    },
+    {
+      "platform_family": "bigquant-docs",
+      "source": "https://bigquant.com/wiki/doc/nxDOuIdhm2",
+      "retrieved": "2026-11-04",
+      "source_text_sha256": "919dfe9798f22e6220142b7ac67820be4032abfc7ffad651ee663580cc504400",
+      "included": "原创适配摘要；未打包完整第三方手册",
+      "validation": "文档依据，不是本分享包平台运行认证"
+    },
+    {
+      "platform_family": "bigquant-docs",
+      "source": "https://bigquant.com/wiki/doc/5qj3KAOmx8",
+      "retrieved": "2026-11-04",
+      "source_text_sha256": "a8c5ebaa7ebda9baf05ac175b694bbd14ff94b0e74c44ef1a1374cc1f36c674d",
+      "included": "原创适配摘要；未打包完整第三方手册",
+      "validation": "文档依据，不是本分享包平台运行认证"
+    },
+    {
+      "platform_family": "bigquant-docs",
+      "source": "https://bigquant.com/wiki/doc/c00CYNWmYB",
+      "retrieved": "2026-11-04",
+      "source_text_sha256": "4f988d36c3ced0a9b760f314ca14ed169f0e7befed99ec793ffc14c14cfb8a93",
+      "included": "原创适配摘要；未打包完整第三方手册",
+      "validation": "文档依据，不是本分享包平台运行认证"
+    },
+    {
+      "platform_family": "ricequant-docs",
+      "source": "https://www.ricequant.com/doc/rqalpha-plus/api/callback",
+      "retrieved": "2026-11-04",
+      "source_text_sha256": "f0a93f38e568e6e68ab975d64419efabbf503e8ffe8d0ca6058ea18e3ada2fdb",
+      "included": "原创适配摘要；未打包完整第三方手册",
+      "validation": "文档依据，不是本分享包平台运行认证"
+    },
+    {
+      "platform_family": "ricequant-docs",
+      "source": "https://www.ricequant.com/doc/rqalpha-plus/api/order-api",
+      "retrieved": "2026-11-04",
+      "source_text_sha256": "3a7a4487e423b496e0f2f068c487e406a7ea4c75fea98cb5e51d0bd255ccf2ab",
+      "included": "原创适配摘要；未打包完整第三方手册",
+      "validation": "文档依据，不是本分享包平台运行认证"
+    },
+    {
+      "platform_family": "ricequant-docs",
+      "source": "https://www.ricequant.com/doc/rqalpha-plus/api/data-api",
+      "retrieved": "2026-11-04",
+      "source_text_sha256": "bb6cd920e112ca829af7b2d0cc9313736bc45e00901e3d37fd30a3c423febf03",
+      "included": "原创适配摘要；未打包完整第三方手册",
+      "validation": "文档依据，不是本分享包平台运行认证"
+    },
+    {
+      "platform_family": "ricequant-docs",
+      "source": "https://rqalpha.readthedocs.io/zh-cn/latest/api/base_api.html",
+      "retrieved": "2026-11-04",
+      "source_text_sha256": "6781f575644eb472a5c5556d1b4bd34973e694d2c1dafceabc6483bddab9cc46",
+      "included": "原创适配摘要；未打包完整第三方手册",
+      "validation": "文档依据，不是本分享包平台运行认证"
+    },
+    {
+      "platform_family": "joinquant-docs",
+      "source": "https://www.joinquant.com/help/api/getContent?name=api",
+      "retrieved": "2026-11-09",
+      "source_text_sha256": "3aec4202dcbf6adb5049ad4654ede26b42da6181790ebe7a68526fd583f6ea7f",
+      "included": "原创适配摘要；未打包完整第三方手册",
+      "validation": "本轮真实ETF云端回测另有cloud_results；本文为接口证据"
+    },
+    {
+      "platform_family": "joinquant-factors",
+      "source": "https://www.joinquant.com/help/api/help?name=factor_values",
+      "retrieved": "2026-11-09",
+      "source_text_sha256": "0a0daa38ca8a8ff74e60e0efb121b3f8f6ef06fb1d44b1caa36b6de32ee5e54a",
+      "included": "原创适配摘要；未打包完整第三方手册",
+      "validation": "因子目录定义；实际取数范围单列"
+    },
+    {
+      "platform_family": "bigquant-data",
+      "source": "https://bigquant.com/data/datasources/cn_stock_valuation",
+      "retrieved": "2026-11-09",
+      "source_text_sha256": "976367657712fe92912ef485037209269a8775439a00e72327a8a427341fba51",
+      "included": "原创适配摘要；未打包完整第三方手册",
+      "validation": "公开数据字典，未获授权取值"
+    },
+    {
+      "platform_family": "bigquant-data",
+      "source": "https://bigquant.com/data/datasources/cn_stock_index_component",
+      "retrieved": "2026-11-09",
+      "source_text_sha256": "8a870404ba54740edfd4e5c56c2af23a18470019a3a419a7b1faef3bdf848f37",
+      "included": "原创适配摘要；未打包完整第三方手册",
+      "validation": "公开历史成分键定义，未获授权取值"
+    },
+    {
+      "platform_family": "bigquant-data",
+      "source": "https://bigquant.com/data/datasources/cn_stock_financial_profitability",
+      "retrieved": "2026-11-09",
+      "source_text_sha256": "1fd7110f467481773b92dd97dd8723b4683470092a711d0e6047203124d1d1b3",
+      "included": "原创适配摘要；未打包完整第三方手册",
+      "validation": "公告日/报告期/TTM因子定义，未获授权取值"
+    },
+    {
+      "platform_family": "bigquant-data",
+      "source": "https://bigquant.com/data/datasources/cn_stock_bar1d",
+      "retrieved": "2026-11-09",
+      "source_text_sha256": "4ece4ec23a1bd8a7046c5fbfcae664aa4acd7f0fc4cb9b6a3d09775fbcd974d3",
+      "included": "原创适配摘要；未打包完整第三方手册",
+      "validation": "公开价格口径，未获授权取值"
+    },
+    {
+      "platform_family": "ricequant-factors",
+      "source": "https://www.ricequant.com/doc/rqdata/python/stock-mod",
+      "retrieved": "2026-11-09",
+      "source_text_sha256": "c25d330609f186c30b95c82a9db715dd915545d72ae55faf17d55e9ea8ef3078",
+      "included": "原创适配摘要；未打包完整第三方手册",
+      "validation": "官方因子/PIT说明，未调用真实财务后端"
+    },
+    {
+      "platform_family": "ricequant-docs",
+      "source": "https://www.ricequant.com/doc/rqalpha-plus/api/data-api",
+      "retrieved": "2026-11-09",
+      "source_text_sha256": "708ce0d8050db2e5593b9a2b318c2a2351f46878a746d53bcf187ee24a4a6ed2",
+      "included": "原创适配摘要；未打包完整第三方手册",
+      "validation": "当前文档和wrapper核对，Plus未执行"
+    }
+  ],
+  "version_notes": "历史文档与本轮2026-11-09核验分开保留。BigQuant6.0.3/RQAlpha6.4.2/聚宽本例的执行结果见独立研究测试报告，不推广到所有策略、数据权限或云端产品。"
+}
